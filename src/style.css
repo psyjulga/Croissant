@@ -19,6 +19,7 @@ ul {
 }
 
 a {
+  font-size: 17px;
   display: block;
   text-align: center;
   color: brown;
@@ -27,11 +28,6 @@ a {
 ul {
   list-style: none;
   text-align: center;
-}
-
-.photos {
-  background-color: chartreuse;
-  padding: 200px;
 }
 
 img {
